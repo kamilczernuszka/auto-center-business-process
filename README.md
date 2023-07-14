@@ -5,8 +5,7 @@
 
  ![1](https://github.com/kamilczernuszka/auto-center-business-process/assets/139373087/e11d4300-13cf-4eff-9c0a-282ed51b0b7c)<br>
 The Auto Center company is an organization where the process of repairing passenger cars takes place. Workplace
-is headquartered at 5 Poziomkowa Street in Zielona Góra. Two people work in the company, the structure looks like this
-in the following way:
+is headquartered at 5 Poziomkowa Street in Zielona Góra. Two people work in the company.
 
 In terms of industry specifics, the company earns, among others, on checking and repairing car components
 such as specialized electrical and electronic systems on board the vehicle.
